@@ -1,0 +1,6 @@
+After looking through our solutions, one this I noticed about myself is how rusty I am in python.
+I saw that in your solution, you had a lot of shortcuts in where I usually had a lot of conditional statements
+to achieve the same results.  One of the things I noticed was the use of getMRO() function in your solution versus mine.
+I don't know why my tests passed despite me not having this applied. I also noticed that in your solution you did not declare
+null as non-instantiable. I wonder why this was as well. Overall, most of our methods were mostly the same with some syntax
+differences.
